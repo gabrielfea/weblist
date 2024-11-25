@@ -10,7 +10,7 @@ A **WebList** é uma estrutura de árvore com as seguintes características:
 - **Balanceamento**: A soma do número de dados incluídos nas listas ligadas duplamente dinâmicas (DDLLs) por nó da árvore não pode variar mais do que 1 elemento.
 - **Generalidade**: Qualquer dado que possua uma regra de precedência pode ser armazenado na estrutura.
 
-![Figura 1: Estrutura de Teia](images/estrutura_teia.png)
+![Figura 1: Estrutura de Teia](images/figura 1.png)
 
 A **WebList** é composta por várias operações que permitem a construção, destruição, acesso e manipulação dos dados armazenados. Essas operações estão descritas na API pública, conforme mostrado abaixo.
 
